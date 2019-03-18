@@ -78,4 +78,5 @@ For example a checkbox:
 ### License
 
 The MIT License (MIT). Please see [License File](https://github.com/yaroslavshyshkin/nova-dependency-container/blob/master/LICENSE.md) for more information.
+
 Source package: The MIT License (MIT). Please see [License File](https://github.com/epartment/nova-dependency-container/blob/master/LICENSE.md) for more information.
